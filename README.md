@@ -1,2 +1,0 @@
-# regex-masking-python
-This project demonstrates various regular expression (regex) techniques in Python for extracting and masking sensitive information from text. Key functionalities include:  Extracting IDs, numbers, and email addresses from strings.  Masking specific patterns in phone numbers (e.g., middle or last digits).  Redacting sensitive segments while preserving the original format.  Ideal for learning and experimenting with NLP preprocessing, data privacy, and text pattern matching using Python's re module.
